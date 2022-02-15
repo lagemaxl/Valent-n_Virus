@@ -1,0 +1,10 @@
+C:\Users\ladik\source\repos\valentýnvirus\valentýnvirus\bin\Debug\valentýnvirus.exe.config
+C:\Users\ladik\source\repos\valentýnvirus\valentýnvirus\bin\Debug\valentýnvirus.exe
+C:\Users\ladik\source\repos\valentýnvirus\valentýnvirus\bin\Debug\valentýnvirus.pdb
+C:\Users\ladik\source\repos\valentýnvirus\valentýnvirus\obj\Debug\valentýnvirus.csproj.AssemblyReference.cache
+C:\Users\ladik\source\repos\valentýnvirus\valentýnvirus\obj\Debug\valentýnvirus.Form1.resources
+C:\Users\ladik\source\repos\valentýnvirus\valentýnvirus\obj\Debug\valentýnvirus.Properties.Resources.resources
+C:\Users\ladik\source\repos\valentýnvirus\valentýnvirus\obj\Debug\valentýnvirus.csproj.GenerateResource.cache
+C:\Users\ladik\source\repos\valentýnvirus\valentýnvirus\obj\Debug\valentýnvirus.csproj.CoreCompileInputs.cache
+C:\Users\ladik\source\repos\valentýnvirus\valentýnvirus\obj\Debug\valentýnvirus.exe
+C:\Users\ladik\source\repos\valentýnvirus\valentýnvirus\obj\Debug\valentýnvirus.pdb
