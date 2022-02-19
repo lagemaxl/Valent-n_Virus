@@ -41,7 +41,7 @@ namespace valentýnvirus
                     {
                         for (int i = 0; i < 5;)
                         {
-                            message = "Will you be my valentine?";
+                            message = "PROSÍM";
                             buttons = MessageBoxButtons.YesNo;
                             result = MessageBox.Show(message, title, buttons);
                             if (result == DialogResult.No)
